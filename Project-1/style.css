@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    padding-top: 50px;
+}
+
+section {
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+
+footer {
+    background-color: #ff5c35;
+    color: white;
+  padding: 30px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+}

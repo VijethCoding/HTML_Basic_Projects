@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+header {
+    padding: 50px 20px;
+    color: white;
+    text-align: center;
+    background-size: cover;
+    background-image: url("./images/RurqKDM.jpeg");
+
+}
+header h1{
+   padding-bottom: 5px;
+}
+
+header p{
+    padding-bottom: 10px;
+}
+
+header button{
+    padding: 10px 20px;
+    background-color: #007bff ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+   
+}
+
+main{
+   display: flex;
+   justify-content: center;
+   padding: 20px; 
+}
+ #div1{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    box-shadow:  0 2px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+#div2{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    box-shadow:  0 2px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: #333;
+    color: white;
+}
